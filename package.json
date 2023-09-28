@@ -1,0 +1,26 @@
+{
+  "name": "react-multi-carousel-playground",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@zeit/next-css": "1.0.1",
+    "next": "latest",
+    "next-compose-plugins": "2.1.1",
+    "next-fonts": "0.17.0",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-multi-carousel": "2.4.1",
+    "react-visibility-sensor": "5.0.2",
+    "semantic-ui-css": "2.4.1",
+    "semantic-ui-react": "0.86.0",
+    "ua-parser-js": "0.7.19",
+    "url-loader": "1.1.2"
+  },
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
